@@ -1,7 +1,7 @@
 # Bookends Mac Integration – Advanced Reference Management for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/7429/l/bookends-logo.png?v=1670230383" alt="Bookends Logo" width="128" height="128">  
+<img src="https://static.macupdate.com/products/7429/l/bookends-logo.webp?v=1670230382" alt="Bookends Logo" width="128" height="128">  
 </div>  
 
 <div align="center">  
